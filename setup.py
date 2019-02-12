@@ -43,7 +43,7 @@ install_requires = [
 ]
 
 setup(
-    name='Flask-Admin',
+    name='oy-libs-Flask-Admin',
     version=grep('__version__'),
     url='https://github.com/flask-admin/flask-admin/',
     license='BSD',
